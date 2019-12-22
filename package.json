@@ -1,0 +1,19 @@
+{
+  "name": "lodash-practice",
+  "version": "1.0.0",
+  "description": "Practice with lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgasch512/lodash-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgasch512/lodash-practice/issues"
+  },
+  "homepage": "https://github.com/dgasch512/lodash-practice#readme"
+}
